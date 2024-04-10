@@ -2,3 +2,4 @@ discord.py
 feedparser
 python-dateutil
 Flask
+python-dotenv
