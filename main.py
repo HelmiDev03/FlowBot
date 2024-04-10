@@ -116,7 +116,7 @@ async def check_rss():
                             dates_recuperees.add(published_date)
                             break
 
-        await asyncio.sleep(200)
+        await asyncio.sleep(50)
 
 
 
